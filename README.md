@@ -1,3 +1,3 @@
 # Profiles REST API
 
-Profiles REST API code...
+REST API providing basic functionality for managing user profiles.
